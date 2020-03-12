@@ -6,8 +6,9 @@
     - ref: http://wiki.csie.ncku.edu.tw/embedded/2016q1h2
         - merge sort
         - c + oop
-        - 2016q1h3, http server
-        - tcpip stack        
+        - 2016q1h3, http server.
+            - use ab util for benchmark.
+        - tcpip stack
 
 - Linuxkl CSIE@NCKU
     - url: http://wiki.csie.ncku.edu.tw/linux/schedule

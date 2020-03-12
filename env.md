@@ -9,4 +9,10 @@
         - export PY_USER_BIN=$(python -c 'import site; print(site.USER_BASE + "/bin")')
         - export PATH=$PY_USER_BIN:$PATH
 
+- grip installation
+    - command
+        - pip install grip
+    - usage
+        - grip -b env.md &
+
 

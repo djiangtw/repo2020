@@ -15,8 +15,9 @@
     - url: https://hackmd.io/@sysprog/linux-kernel-internal
     - an interesting and practical linux kernel course.
     - CS:APP
+        - BUY one.
         - url: https://hackmd.io/@sysprog/CSAPP/
-    - 
+        - video 1: https://www.bilibili.com/video/av24540152/
 
 # Tutorial/Training Videos
 

@@ -1,5 +1,13 @@
 # Installation in ubuntu
 
+## Ubuntu
+
+- cloc
+    - url: https://github.com/AlDanial/cloc
+    - count lines of code
+
+## Python
+
 - gprof2dot installation
     - url: https://github.com/jrfonseca/gprof2dot
     - command

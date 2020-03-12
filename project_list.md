@@ -7,12 +7,16 @@
         - merge sort
         - c + oop
         - 2016q1h3, http server.
-            - use ab util for benchmark.
+            - use `ab` util for benchmark.
         - tcpip stack
 
 - Linuxkl CSIE@NCKU
     - url: http://wiki.csie.ncku.edu.tw/linux/schedule
+    - url: https://hackmd.io/@sysprog/linux-kernel-internal
     - an interesting and practical linux kernel course.
+    - CS:APP
+        - url: https://hackmd.io/@sysprog/CSAPP/
+    - 
 
 # Tutorial/Training Videos
 

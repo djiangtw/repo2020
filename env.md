@@ -4,6 +4,8 @@
 
 - cloc
     - url: https://github.com/AlDanial/cloc
+    - command
+        - apt-get install cloc
     - count lines of code
 
 ## Python

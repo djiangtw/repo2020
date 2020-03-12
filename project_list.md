@@ -4,6 +4,9 @@
     - url: https://github.com/embedded2016/raytracing
     - a small raytracing project and analysis
     - ref: http://wiki.csie.ncku.edu.tw/embedded/2016q1h2
+        - merge sort
+        - 2016q1h3, http server
+        - tcpip stack        
 
 - Linuxkl CSIE@NCKU
     - url: http://wiki.csie.ncku.edu.tw/linux/schedule

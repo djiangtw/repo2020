@@ -19,6 +19,9 @@
         - url: https://hackmd.io/@sysprog/CSAPP/
         - video 1: https://www.bilibili.com/video/av24540152/
 
+- C/CPP ref and discussion
+    - url: https://en.cppreference.com/w/
+
 # Tutorial/Training Videos
 
 - .GUTS @ Youtube. Jserv and his partners.

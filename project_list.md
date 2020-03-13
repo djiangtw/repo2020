@@ -18,6 +18,11 @@
         - BUY one.
         - url: https://hackmd.io/@sysprog/CSAPP/
         - video 1: https://www.bilibili.com/video/av24540152/
+    - derived subjects
+        - C
+        - eBPF, extended Berkeley Packet Filter.
+            - video: https://www.youtube.com/watch?v=UmCnh6mELwA
+            - `TODO` watch it again and DOIT.
 
 - C/CPP ref and discussion
     - url: https://en.cppreference.com/w/
@@ -32,3 +37,8 @@
 
 - Taiwan Linux Kernel Hackers @ Youtube.
     - url: https://www.youtube.com/channel/UCzv1VG_o1MoQCA1G0uixMaA/videos
+
+# Misc.
+- LaTex alternative for github. +-use.
+    - <img src="https://render.githubusercontent.com/render/math?math=e^{i +\pi} =x+1">
+    - <img src="https://render.githubusercontent.com/render/math?math=f(n)=n^5 %2B 4n^2 %2B 2">

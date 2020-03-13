@@ -2,6 +2,12 @@
 
 ## Ubuntu
 
+- resize disk in virtualbox
+    - url: http://derekmolloy.ie/resize-a-virtualbox-disk/
+    - command(take 80GB as example)
+        - `VBoxManage modifymedium disk myvdi.vdi --resize 81920`
+        - launch GParted and allocate the spare space to the disk.
+
 - cloc
     - url: https://github.com/AlDanial/cloc
     - command

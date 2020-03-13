@@ -22,7 +22,7 @@
 # Tutorial/Training Videos
 
 - .GUTS @ Youtube. Jserv and his partners.
-    - url: https://www.youtube.com/channel/UCIm-u7l65hp5jboSJrB7U5w/videos
+    - url: https://www.youtube.com/c/GUTS4Tech
     - watched:
         - https://www.youtube.com/watch?v=m1RmfOfSwno
         - https://www.youtube.com/watch?v=9VlOpKWdIVU

@@ -25,6 +25,8 @@
             - `TODO` watch it again and DOIT.
          - MM
             - video: https://www.youtube.com/watch?v=kY3g2r03erk
+            - buddy system
+            - slab/slub/slob
 
 - C/CPP ref and discussion
     - url: https://en.cppreference.com/w/

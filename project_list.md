@@ -23,6 +23,8 @@
         - eBPF, extended Berkeley Packet Filter.
             - video: https://www.youtube.com/watch?v=UmCnh6mELwA
             - `TODO` watch it again and DOIT.
+         - MM
+            - video: https://www.youtube.com/watch?v=kY3g2r03erk
 
 - C/CPP ref and discussion
     - url: https://en.cppreference.com/w/

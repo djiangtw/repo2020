@@ -27,9 +27,19 @@
             - video: https://www.youtube.com/watch?v=kY3g2r03erk
             - buddy system
             - slab/slub/slob
+         - process
+         - sync
+         - interrupt
+         - device driver/modules
 
 - C/CPP ref and discussion
     - url: https://en.cppreference.com/w/
+    - behind the C
+
+- QEMU
+    - url: https://wiki.qemu.org/Main_Page
+    - MIPS
+    - RISCV
 
 # Tutorial/Training Videos
 

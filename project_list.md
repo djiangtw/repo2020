@@ -41,6 +41,13 @@
     - MIPS
     - RISCV
 
+- CPU Arch
+    - topics
+        - dual-issue
+        - out-of-order
+        - multitasking, multithreading , multiprocessing
+            - parallelism, concurrency
+            
 # Tutorial/Training Videos
 
 - .GUTS @ Youtube. Jserv and his partners.

@@ -34,7 +34,8 @@
 
 - C/CPP ref and discussion
     - url: https://en.cppreference.com/w/
-    - behind the C
+    - behind the C programming
+        - url: https://hackmd.io/@sysprog/c-prog/%2F%40sysprog%2Fc-programming
 
 - QEMU
     - url: https://wiki.qemu.org/Main_Page
@@ -47,7 +48,11 @@
         - out-of-order
         - multitasking, multithreading , multiprocessing
             - parallelism, concurrency
-            
+- basic algorithm and data structure
+    - tree
+    - graph
+        - coloring problem
+
 # Tutorial/Training Videos
 
 - .GUTS @ Youtube. Jserv and his partners.

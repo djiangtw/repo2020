@@ -69,7 +69,7 @@
     - <img src="https://render.githubusercontent.com/render/math?math=e^{i +\pi} =x+1">
     - <img src="https://render.githubusercontent.com/render/math?math=f(n)=n^5 %2B 4n^2 %2B 2">
     
-# Thoughts
+# Reading and Thoughts
 
 Today, we have domain-specific areas. We probably want a compiler. we probably want libraries since the people who build the machines know best how to use them. We need to codesign from the physics all the way up to the applications, which is hard.
 
@@ -78,3 +78,11 @@ Today, we have domain-specific areas. We probably want a compiler. we probably w
 - Compiler, a translation which might work efficiently and/or clearly.
 - Libraries, packed instructions for use.
 - Operation System, a way makes the hardware work regularly for purposes.
+
+A binding is an association, between an attribute and an entity or between an operation and a symbol. Binding can take place at,
+- language design time
+- language implementation time
+- compile time
+- link time
+- load time
+- run time

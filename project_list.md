@@ -68,3 +68,13 @@
 - LaTex alternative for github. +-use.
     - <img src="https://render.githubusercontent.com/render/math?math=e^{i +\pi} =x+1">
     - <img src="https://render.githubusercontent.com/render/math?math=f(n)=n^5 %2B 4n^2 %2B 2">
+    
+# Thoughts
+
+Today, we have domain-specific areas. We probably want a compiler. we probably want libraries since the people who build the machines know best how to use them. We need to codesign from the physics all the way up to the applications, which is hard.
+
+- ISA, a contract between the hardware and softwre.
+- Microarchitecture, a way to implement the hardware.
+- Compiler, a translation which might work efficiently and/or clearly.
+- Libraries, packed instructions for use.
+- Operation System, a way makes the hardware work regularly for purposes.

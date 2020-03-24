@@ -33,6 +33,7 @@
 
 # Common ENV setup
 
+Example,
 ```
 sudo apt update
 sudo apt-get install git vim tig gitk pastebinit tmux

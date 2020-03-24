@@ -31,4 +31,12 @@
     - usage
         - `grip -b env.md &`
 
+# Common ENV setup
 
+```
+sudo apt update
+sudo apt-get install git vim tig gitk pastebinit tmux
+sudo apt-get install libncurses5-dev libssl-dev build-essential openssl
+sudo apt-get install qemu gcc-arm-linux-gnueabi gcc-5-arm-linux-gnueabi
+
+```

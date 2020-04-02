@@ -86,3 +86,7 @@ A binding is an association, between an attribute and an entity or between an op
 - link time
 - load time
 - run time
+
+## Not see forest for the trees
+Need to organize things well to have a well understanding./TBD
+

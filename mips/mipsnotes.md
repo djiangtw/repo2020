@@ -32,3 +32,7 @@ SYSCTL_BASE              0xB9E00000
 DDR_CTL_BASE             0xB9F00000
 DDR_PHY_BASE             0xB9F80000
 ```
+# OpenOCD on Win10
+```
+<path>\bin\openocd.exe -s  . -f .\scripts\interface\mips_busblaster.cfg -f scripts\target\interAptiv.cfg -c "init"
+```

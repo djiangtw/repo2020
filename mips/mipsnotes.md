@@ -23,7 +23,7 @@ mfc0 t0, 15, 3
 # Example
 ## Platform A
 - uart_base 0xb8300000
-- timer_base 0xb8310000
+- timer_base 0xb8600000
 - cpc base 0xbbde0000
 - stack size 0x20000(64kb)
 ```

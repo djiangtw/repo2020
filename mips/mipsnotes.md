@@ -21,5 +21,6 @@ mfc0 t0, 15, 3
   - Hi: GIC_Base + 0x14
   
 # Example
-uart_base 0xb8300000
-timer_base 0xb8310000
+## Platform A
+- uart_base 0xb8300000
+- timer_base 0xb8310000

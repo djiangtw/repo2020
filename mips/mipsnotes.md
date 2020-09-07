@@ -36,3 +36,7 @@ DDR_PHY_BASE             0xB9F80000
 ```
 <path>\bin\openocd.exe -s  . -f .\scripts\interface\mips_busblaster.cfg -f scripts\target\interAptiv.cfg -c "init"
 ```
+# instruction counts
+```
+nanomips-elf-gdb -batch -ex "disassemble/r main" dhry.elf > main.inst
+```
